@@ -844,9 +844,9 @@ dha.sendMessage(id, buttonMessages, MessageType.buttonsMessage, options)
 ➤ *Baterai :* ${baterai}%
 
 「 *INFO BOT* 」
-➤ *Nama :* Akbar Botz
-➤ *Nomor :* @6283890109310
-➤ *Owner :* AKBAR BOTZ
+➤ *Nama :* Zxgel Botz
+➤ *Nomor :* @6285776433093
+➤ *Owner :* ZXGEL BOTZ
 ➤ *Aktif :* ${runtime(process.uptime())}
 ➤ *Prefix :* 『> ${prefix} <』
 
